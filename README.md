@@ -1,2 +1,2 @@
 # MealManage
-A Meal Management Software .Responsible to manage Meal Cost of per User each month and year and approprite transaction.
+A Meal Management System Software that is responsible to manage Meal Cost of different User each month and year and approprite transaction.Its Include User Cash Payment System. Bazar Cost Option.And in transaction its genarate a reports for all users Meal Cost per month,Net meal cost,Total bazar cost of current month and user payment amount of this month and user Due amount or Cash back amount. 
